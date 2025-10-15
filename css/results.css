@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #1c1c1c;
+}
+.sarlavha {
+    background-color: #f4f4f4;
+    color: black;
+    height: 70px;
+}
+.sarlavha h1 {
+    font-size: 50px;
+    font-family: 'Arial';
+    margin: 20px 0;
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 10px rgb(59, 54, 54);
+}
